@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "malvin~wqVAEZIS#_JbRDpgGrNSid-npWmue3cqIhJO8PelRn7B3gH8SQmY"
     },  
     
     "STICKER_NAME": {
@@ -86,13 +86,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ ᴋɪɴɢ"
+      "value": "Nicolaus Daniel 2😈😈"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "26371475XXXX"
+      "value": "255652398614"
 
     }, 
 
@@ -193,7 +193,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
